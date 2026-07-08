@@ -7,3 +7,10 @@
 - 距離・時間・カロリーの計算
 - 音声アナウンス
 - HealthKit への保存
+
+Markdown
+## Support / サポート
+アプリに関するお問い合わせ、不具合のご報告、ご要望は下記までご連絡ください。
+- **Email:** katsutaro.kaneko@icloud.com
+- **GitHub Issues:** このリポシトリー内で問題点を指示してください.
+
