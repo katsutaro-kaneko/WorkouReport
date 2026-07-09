@@ -11,5 +11,5 @@
 ## Support / サポート
 アプリに関するお問い合わせ、不具合のご報告、ご要望は下記までご連絡ください。
 - **Email:** katsutaro.kaneko@icloud.com
-- **GitHub Issues:** このリポシトリー内で問題点を指示してください.
+- **GitHub Issues:** このリポシトリー内で問題点を指示してください。(Support)
 
